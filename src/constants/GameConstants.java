@@ -2989,7 +2989,7 @@ public class GameConstants {
         //    return 5;
         //}
         //return 10;
-        return 512;
+        return 50;
     }
 
     public static int getExpRate_Quest(final int level) {

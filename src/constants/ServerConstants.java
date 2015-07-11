@@ -28,7 +28,7 @@ public class ServerConstants {
     public static final String SQL_PORT = "3306",
             SQL_DATABASE = "judoms",
             SQL_USER = "root",
-            SQL_PASSWORD = "";
+            SQL_PASSWORD = "root";
 
     //public static int lightexp = WorldConstants.Servers.Scania.getExp();
     //public static int darkexp = lightexp+10;
