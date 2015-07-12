@@ -2993,7 +2993,7 @@ public class GameConstants {
     }
 
     public static int getExpRate_Quest(final int level) {
-        return 10;
+        return 100;
     }
 
     public static final String getCommandBlockedMsg() {
