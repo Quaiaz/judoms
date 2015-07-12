@@ -19,7 +19,7 @@ public class WorldConstants {
      // EXAMPLE:
      // Format: WorldName(world id, exp rate, meso rate, drop rate, flag, show, available to enter)
      // GMS:
-        Scania(0, 100, 15, 5, (byte) 0, true, true),
+        Scania(0, 20, 15, 3, (byte) 0, true, true),
         Bera(1, 9, 6, 3, (byte) 1, false, false),
         Broa(2, 1, 1, 1, (byte) 0, false, false),
         Windia(3, 1, 1, 1, (byte) 0, false, false),
