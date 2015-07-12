@@ -2989,11 +2989,11 @@ public class GameConstants {
         //    return 5;
         //}
         //return 10;
-        return 10;
+        return 5;
     }
 
     public static int getExpRate_Quest(final int level) {
-        return 100;
+        return 20;
     }
 
     public static final String getCommandBlockedMsg() {
